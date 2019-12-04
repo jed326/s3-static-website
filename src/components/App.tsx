@@ -9,7 +9,7 @@ type PageState = {
     page: Number;
 };
 
-// References: https://github.com/VikLiegostaiev/react-page-scroller/blob/master/demo/src/FullPage.js
+// Reference: https://github.com/VikLiegostaiev/react-page-scroller/blob/master/demo/src/FullPage.js
 
 export default class App extends React.Component<{}, PageState> {
     constructor(props: {}) {

@@ -1,0 +1,30 @@
+.Landing {
+    position: relative;
+    background-image: url("../assets/background.jpeg");
+    background-size: cover;
+    height: 100vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.Content {
+    background-color: #151515;
+    opacity: 0.6;
+    height: 92vh;
+}
+
+.Footer {
+    background-color: #151515;
+    opacity: 0.6;
+    height: 8vh;
+}
+
+.Social-Icon {
+    font-size: 40px;
+    color: white;
+}
+
+.Social-Icon:hover {
+    font-size: 42px;
+    color: darkslategrey;
+}
