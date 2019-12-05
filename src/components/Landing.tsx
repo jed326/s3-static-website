@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, Icon, Row, Col, Button } from "antd";
+import { Layout, Row, Col, Button } from "antd";
 
 import "../styles/Landing.css";
 

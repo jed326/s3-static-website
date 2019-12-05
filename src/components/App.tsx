@@ -40,8 +40,8 @@ export default class App extends React.Component<LoaderProps, PageState> {
                 <ReactPageScroller>
                     <Landing></Landing>
                     <About></About>
-                    {/* <div>Work Experience</div>
-                    <div>Projects</div> */}
+                    {/* <div>Work Experience</div> */}
+                    {/* <div>Projects</div> */}
                 </ReactPageScroller>
             </div>
         );
