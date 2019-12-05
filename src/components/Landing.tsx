@@ -11,7 +11,16 @@ export default class Landing extends React.Component<{}, {}> {
             <React.Fragment>
                 <div className="Landing">
                     <Layout style={{ backgroundColor: "transparent" }}>
-                        <Content className="Content">Jay Deng</Content>
+                        <Content className="Content">
+                            <Row className="Intro">
+                                <Col span={8}></Col>
+                                <Col span={8}>
+                                    <Row className="Greeting">I am</Row>
+                                    <Row className="Name">Jay Deng</Row>
+                                </Col>
+                                <Col span={8}></Col>
+                            </Row>
+                        </Content>
                         <Footer className="Footer">
                             <Row type="flex" justify="center">
                                 <Col span={3}>

@@ -28,3 +28,16 @@
     font-size: 42px;
     color: darkslategrey;
 }
+
+.Intro {
+    top: 40%;
+    font-family: "Roboto Mono", monospace;
+}
+
+.Greeting {
+    font-size: 40px;
+}
+
+.Name {
+    font-size: 70px;
+}

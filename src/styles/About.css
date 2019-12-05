@@ -1,0 +1,8 @@
+.About {
+    position: relative;
+    background-size: cover;
+    height: 100vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-color: darkslategrey;
+}
